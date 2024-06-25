@@ -1,4 +1,4 @@
-# Low-SNR-Digital-modulation-CNN-classifier
+# Low SNR Digital modulation CNN classifier
 This project is the final project of Ido Avrahami and Yarin Killim Nagar.
 
 This project presents developed a Digital Communication 
